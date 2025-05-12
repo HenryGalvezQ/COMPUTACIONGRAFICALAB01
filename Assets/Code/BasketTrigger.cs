@@ -1,4 +1,3 @@
-// BasketTrigger.cs
 using System.Collections;
 using UnityEngine;
 
